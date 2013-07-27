@@ -1,0 +1,7 @@
+parameters:
+#    pugal_hackathon2013.example.class: PUGAL\Bundle\Hackathon2013Bundle\Example
+
+services:
+#    pugal_hackathon2013.example:
+#        class: %pugal_hackathon2013.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

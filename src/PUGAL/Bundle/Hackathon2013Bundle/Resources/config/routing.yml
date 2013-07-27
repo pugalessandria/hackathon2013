@@ -1,0 +1,3 @@
+pugal_hackathon2013_homepage:
+    pattern:  /
+    defaults: { _controller: PUGALHackathon2013Bundle:Default:index }

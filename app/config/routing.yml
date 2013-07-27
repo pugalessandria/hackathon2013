@@ -1,0 +1,4 @@
+pugal_hackathon2013:
+    resource: "@PUGALHackathon2013Bundle/Resources/config/routing.yml"
+    prefix:   /
+
